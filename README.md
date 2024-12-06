@@ -13,11 +13,11 @@
    ```bash
    pip install requests
 
-4. Поместите ваши ссылки в файл `profiles.txt`. Они должны вылгядеть так:
+4. Поместите ваши ссылки на каждую строку в файл `profiles.txt`. Они должны выглядеть примерно так:
 
    ```bash
-   https://steamcommunity.com/id/example1
-   https://steamcommunity.com/id/example2
-   https://steamcommunity.com/id/example3
+   https://steamcommunity.com/id/пример1
+   https://steamcommunity.com/id/пример2
+   https://steamcommunity.com/id/пример3
 
 5. Запустите скрипт `wolf_hunter_id.py`
