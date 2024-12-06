@@ -6,13 +6,18 @@
 
 1. Убедитесь, что у вас установлен Python 3. Вы можете скачать его с [официального сайта Python](https://www.python.org/downloads/).
 
-2. Установите VSCode и запустите его в папке со скриптом.
+2. Установите VSCode [с официального сайта](https://code.visualstudio.com)и запустите его в папке со скриптом.
 
 3. Установите библиотеку `requests`, если она еще не установлена. Откройте терминал и выполните следующую команду:
 
    ```bash
    pip install requests
 
-4. Поместите ваши ссылки в файл `profiles.txt` 
+4. Поместите ваши ссылки в файл `profiles.txt`. Они должны вылгядеть так:
+
+   ```bash
+   https://steamcommunity.com/id/example1
+   https://steamcommunity.com/id/example2
+   https://steamcommunity.com/id/example3
 
 5. Запустите скрипт `wolf_hunter_id.py`
